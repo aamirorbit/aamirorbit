@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aamirorbit
 - 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning Solidity and Javascript
-- 💞️ I’m looking to collaborate on Eth project
+- 🌱 I’m currently learning WEB3 and share it to the word 
+- 💞️ I’m looking to collaborate on blockchain projects
 - 📫 You can reach me via twitter account @aamirorbit
 
 <!---
