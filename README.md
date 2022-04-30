@@ -1,4 +1,4 @@
-Hello 👋 Fellow, My name is Hafiz Muhammad Aamir
+Hi 👋 My name is Hafiz Muhammad Aamir
 =====================================
 
 Blockchain Developer - Web3.0
