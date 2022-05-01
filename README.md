@@ -4,7 +4,7 @@ Hi 👋 My name is Hafiz Muhammad Aamir
 Blockchain Developer - Web3.0
 -----------------------------
 
-Extremely motivated to constantly develop my skills and knowledge on the blockchain area. I am confident in my abilities to solve problems and to learn quickly to tackle future challenges.
+Extremely motivated to constantly develop my skills and knowledge in the blockchain area. I am confident in my abilities to solve problems and to learn quickly to tackle future challenges.
 
 *   ✉️  You can contact me at [aamirorbit@gmail.com](mailto:aamirorbit@gmail.com) or +923451599597
 *   🧠  Currently, I'm learning Solana Blockchain
