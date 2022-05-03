@@ -1,7 +1,7 @@
-Hi 👋 My name is Hafiz Muhammad Aamir
+Hello fellow, 👋 My name is Aamir
 =====================================
 
-Blockchain Developer - Web3.0
+Blockchain Developer & Web3.0 wizard
 -----------------------------
 
 Extremely motivated to constantly develop my skills and knowledge in the blockchain area. I am confident in my abilities to solve problems and to learn quickly to tackle future challenges.
