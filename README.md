@@ -1,4 +1,4 @@
-Hello fellow, 👋 My name is Aamir (Knight Programmer)
+Hello fellow, 👋 My name is Aamir
 =====================================
 
 Blockchain Developer & Web3.0 wizard
