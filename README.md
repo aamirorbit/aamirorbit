@@ -1,13 +1,12 @@
 Hello fellow, 👋 My name is Aamir
 =====================================
 
-Blockchain Developer & Web3.0 wizard
+Blockchain Protocol Engineer & Web3.0 wizard
 -----------------------------
 
 Extremely motivated to constantly develop my skills and knowledge in the blockchain area. I am confident in my abilities to solve problems and to learn quickly to tackle future challenges.
 
 *   ✉️  You can contact me at [aamirorbit@gmail.com](mailto:aamirorbit@gmail.com) or +923451599597
-*   🧠  Currently, I'm learning Solana Blockchain
 *   ⚡  Black lover that loves to watch animes
 ### Skills
 <p align="left">
